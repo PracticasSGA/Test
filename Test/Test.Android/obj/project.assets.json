@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Mobile\\Pruebas\\Test\\Test\\Test.Android\\Test.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Programacion\\Mobile\\Test\\Test\\Test.Android\\Test.Android.csproj",
       "projectName": "Test.Android",
-      "projectPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Mobile\\Pruebas\\Test\\Test\\Test.Android\\Test.Android.csproj",
+      "projectPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Programacion\\Mobile\\Test\\Test\\Test.Android\\Test.Android.csproj",
       "packagesPath": "C:\\Users\\Ingeniero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Mobile\\Pruebas\\Test\\Test\\Test.Android\\obj\\",
+      "outputPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Programacion\\Mobile\\Test\\Test\\Test.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

@@ -1,1 +1,1 @@
-C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Test.UWP.csproj;x86
+C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Test.UWP.csproj;x86

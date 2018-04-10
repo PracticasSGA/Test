@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=e983384c-9b3d-4b2f-b5a6-f60c85ac54d5</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>36FA6432BE230AEB5CE804E3C7A2FF5DD46B35C720AADA48BE6426EBF1225C29</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f60afdfa-99f0-4559-8b8a-85a4a4afe7c9_1.0.0.0_x86__2fy7tgr2x569j</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f60afdfa-99f0-4559-8b8a-85a4a4afe7c9_2fy7tgr2x569j!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-09T13:58:06.356</Modified>
+      <Modified>2018-04-10T17:33:44.647</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\bin\x86\Debug\Test.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\bin\x86\Debug\Test.UWP.exe">
       <PackagePath>entrypoint\Test.UWP.exe</PackagePath>
-      <Modified>2018-04-09T13:58:04.667</Modified>
+      <Modified>2018-04-10T17:33:17.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ingeniero\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -711,161 +711,161 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-02-15T00:07:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-04-09T13:38:56.065</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
       <Modified>2018-04-09T13:38:55.444</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
       <Modified>2018-04-09T13:38:55.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
       <Modified>2018-04-09T13:38:55.527</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-04-09T13:38:55.541</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
       <Modified>2018-04-09T13:38:55.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.675</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.679</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.749</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.753</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.834</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.902</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.924</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.996</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T13:38:55.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\bin\x86\Debug\Test.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\bin\x86\Debug\Test.UWP.xr.xml">
       <PackagePath>Test.UWP.xr.xml</PackagePath>
       <Modified>2018-04-09T13:56:59.217</Modified>
     </AppxPackagedFile>
@@ -877,14 +877,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-02-15T00:07:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-09T13:58:05.380</Modified>
+      <Modified>2018-04-10T17:33:37.120</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ingeniero\source\repos\Test\Test\Test.UWP\bin\x86\Debug\Core\Test.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Ingeniero\Dropbox\Documentos Practicas\Programacion\Mobile\Test\Test\Test.UWP\bin\x86\Debug\Core\Test.UWP.exe">
       <PackagePath>Test.UWP.exe</PackagePath>
-      <Modified>2018-04-09T13:58:06.352</Modified>
+      <Modified>2018-04-10T17:33:44.627</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

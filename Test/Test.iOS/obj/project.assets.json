@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Mobile\\Pruebas\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Programacion\\Mobile\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
       "projectName": "Test.iOS",
-      "projectPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Mobile\\Pruebas\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
+      "projectPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Programacion\\Mobile\\Test\\Test\\Test.iOS\\Test.iOS.csproj",
       "packagesPath": "C:\\Users\\Ingeniero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Mobile\\Pruebas\\Test\\Test\\Test.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Ingeniero\\Dropbox\\Documentos Practicas\\Programacion\\Mobile\\Test\\Test\\Test.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

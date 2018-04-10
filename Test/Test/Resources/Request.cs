@@ -8,7 +8,7 @@ namespace Test.Resources
 {
     class Request
     {
-        private static String web = "http://192.168.1.7/sga/modules/mobile/test.php";
+        private static String web = "http://192.168.1.37:8080/sga/modules/mobile/test.php";
 
         public static String get(Dictionary<string, string> parameters)
         {
