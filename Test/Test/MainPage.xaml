@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Test"
+             x:Class="Test.MainPage">
+
+    <StackLayout Orientation="Vertical" Padding="10" VerticalOptions="FillAndExpand">
+        <Label Text="Prueba de XAMARIN FORMS" Font="Bold" FontSize="Large"/>
+        <StackLayout Orientation="Horizontal" >
+            <Label Text="Nombres: " VerticalOptions="Center"/>
+            <Entry HorizontalOptions="FillAndExpand" x:Name="txtNombres_XAML" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" >
+            <Label Text="Apellidos: " VerticalOptions="Center"/>
+            <Entry HorizontalOptions="FillAndExpand" x:Name="txtApellidos_XAML"/>
+        </StackLayout>
+
+        <Label Text="Correo" />
+        <Entry x:Name="txtCorreo_XAML" HorizontalOptions="FillAndExpand"/>
+
+        <Button Text="Saludar" x:Name="btnSaludar_XAML" VerticalOptions="End" HorizontalOptions="End"/>
+    </StackLayout>
+
+</ContentPage>
